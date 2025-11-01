@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Your existing colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- New Social Media Style Color Palette -->
+    <color name="profile_primary">#4A90E2</color> <!-- A nice, modern blue -->
+    <color name="profile_background">#F0F2F5</color> <!-- Common social media background color -->
+    <color name="profile_card_background">#FFFFFF</color>
+    <color name="profile_text_primary">#1C1E21</color>
+    <color name="profile_text_secondary">#65676B</color>
+    <color name="profile_button_follow_background">#1877F2</color>
+    <color name="profile_divider">#CED0D4</color>
+</resources>

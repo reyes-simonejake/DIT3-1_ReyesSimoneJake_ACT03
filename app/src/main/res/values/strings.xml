@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ProfileUI</string>
+
+    <!-- Profile Information -->
+    <string name="username">Simone Jake Reyes</string>
+    <string name="bio">Third Year Student at PUP-Taguig. Learning Mobile Development to expand my skills.</string>
+    <string name="email">reyesjake262@gmail.com</string>
+    <string name="phone">0950 442 6896</string>
+
+    <!-- Buttons and Actions -->
+    <string name="edit_profile">Edit Profile</string>
+
+    <!-- Content Descriptions for Accessibility -->
+    <string name="profile_picture_desc">User profile picture</string>
+    <string name="email_icon_desc">Email icon</string>
+    <string name="phone_icon_desc">Phone icon</string>
+</resources>

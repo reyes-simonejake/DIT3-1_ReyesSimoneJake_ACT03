@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- The background color of the card -->
+    <solid android:color="@color/profile_card_background" />
+
+    <!-- The radius for the rounded corners -->
+    <corners android:radius="12dp" />
+
+</shape>
